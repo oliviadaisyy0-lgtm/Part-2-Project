@@ -1,9 +1,9 @@
 
 
-  /* =====================================================
-   CLAY STUDIO — STYLESHEET
-   Change the 5 colors below to customize the whole site.
-   ===================================================== */
+  
+   CLAY STUDIO CSS
+   
+  
 :root {
   --blush: #C9A0A0;
   --mauve: #8C6A6A;
@@ -21,7 +21,7 @@ body {
   line-height: 1.6;
 }
 
-/* ============ NAVIGATION ============ */
+NAVIGATION
 header {
   display: flex;
   justify-content: space-between;
